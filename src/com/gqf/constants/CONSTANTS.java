@@ -7,7 +7,7 @@ import java.sql.Connection;
 public  interface CONSTANTS {
     public static final String DB_USERNAME="yundb";
     public static final String DB_PASSWORD="1.aly2.yundb3.finish";
-    public static final String DB_NAME="poetry";
+    public static final String DB_NAME="story";
     public static final String DB_HOST="39.107.232.16";
     public static final String DB_PORT="3306";
 
