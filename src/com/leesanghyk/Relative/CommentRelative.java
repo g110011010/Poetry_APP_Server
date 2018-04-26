@@ -22,6 +22,7 @@ public class CommentRelative {
     public @ResponseBody
     void setComment(@RequestBody String sql){
         RemoteTransfer.insertComment(sql);
+        //sss
     }
 
     @RequestMapping(value = "/set_story",method = RequestMethod.POST, produces = "application/json; charset=utf-8")
