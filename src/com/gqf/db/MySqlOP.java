@@ -1,6 +1,4 @@
 package com.gqf.db;
-
-
 import com.gqf.User.Userinfo;
 import com.gqf.constants.CONSTANTS;
 import org.json.JSONException;
